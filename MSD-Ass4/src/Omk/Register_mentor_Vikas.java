@@ -34,19 +34,6 @@ public class kish_mentor {
 		
 		
 		
-		/*driver.findElement(By.id("email")).sendKeys("kishore@mentor.com");
-		driver.findElement(By.id("password")).sendKeys("121212");
-		driver.findElement(By.xpath(".//*[@id='app']/div/div/div/div/div[2]/form/div[4]/div/button")).click();
-		WebDriverWait wait = new WebDriverWait(driver, 30);
-		
-		driver.findElement(By.xpath("//a[@href='http://omk.herokuapp.com/mentors']")).click();
-		WebDriverWait wait1 = new WebDriverWait(driver, 30);
-		Thread.sleep(5000);
-		driver.findElement(By.xpath(".//*[@id='app']/table/tbody/tr/td[8]/a")).click();
-		Thread.sleep(2000);
-		//driver.manage().timeouts().implicitlyWait(400, TimeUnit.SECONDS);
-		driver.findElement(By.id("zip")).sendKeys("68106");
-		driver.findElement(By.xpath("html/body/div[1]/form/div[7]/input")).click();*/
 		
 		
 	}
